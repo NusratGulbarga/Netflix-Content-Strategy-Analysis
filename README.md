@@ -1,4 +1,4 @@
-# 📊 Project 2: Netflix Content Strategy Analysis using Python
+# 📊 Project 1: Netflix Content Strategy Analysis using Python
 
 This project is part of my **Data Science Portfolio** as an aspiring analyst. The goal was to perform exploratory data analysis (EDA) on Netflix’s 2023 content release and viewership data to extract strategic business insights and sharpen my Python data storytelling skills.
 
